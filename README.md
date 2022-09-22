@@ -36,4 +36,6 @@ Here is a sample result/output from the program/model
 
 
 ## Result
-- We have obtained a .80 MAP on Train Set -We have obtained a 0.681 on Test Set -Further training of model would have given us better results -This can be considered as an extesion to improec the performace of this model
+- We have obtained a .80 MAP on Train Set -We have obtained a 0.681 on Test Set
+- Further training of model would have given us better results 
+- This can be considered as an extesion to improec the performace of this model
