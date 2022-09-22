@@ -26,7 +26,7 @@ The code aims at building a face detection model with an additional requirement 
 - Essentialy , what we do in the code is load a pre-trained Mask-RCNN model , omit the top layers . 
 - We then re-train the model with "faces" data & tune to get the best results/minimum loss
 - Finally we evaluate our model on Test data with the chosen metric as mAp.
-- Refer **python worksheet  Project_P1_FaceMaskDetection for the solution **
+- Refer **python worksheet  Project_P1_FaceMaskDetection.ipynb** for the solution
 
 ## Sample Ouput/Prediction :
 Here is a sample result/output from the program/model 
