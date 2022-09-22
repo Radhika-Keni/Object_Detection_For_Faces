@@ -11,7 +11,7 @@ Computer Vision can be used to detect faces which is useful in multiple domains.
 
 
 ## Data Description:
--The dataset comprises of images and its mask where there is a human face
+The dataset comprises of images and its mask where there is a human face
 
 ## Domain:
   Entertainment
